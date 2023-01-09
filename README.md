@@ -2,8 +2,11 @@
 
 ### **Javascript**
 
+- [Javascript](./topics/javascript.md)
 - [Object Oriented Programming (OOP)](./topics/oop.md)
+- [Functional Programming](./topics/fp.md)
 - [Recursion](./topics/recursion.md)
+- [Async](./topics/async.md)
 - [Document Object Model (DOM)](./topics/dom.md)
 - [AJAX](./topics/ajax.md)
 - [Client-Server](./topics/client-server.md)
